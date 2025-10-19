@@ -1,0 +1,34 @@
+body {
+  background-color: #f3f0e6;
+  font-family: 'Segoe UI', sans-serif;
+  color: #3e2f1c;
+}
+
+.navbar {
+  background-color: #7a5c3a !important;
+}
+
+.navbar a {
+  color: #f3f0e6 !important;
+}
+
+.btn-farm {
+  background-color: #8b5e34;
+  color: #fff;
+  border: none;
+}
+
+.btn-farm:hover {
+  background-color: #a66a3b;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+input, select, textarea {
+  border-radius: 8px !important;
+  border: 1px solid #ccc !important;
+}
